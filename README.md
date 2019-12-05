@@ -8,7 +8,7 @@ https://phy5prt.itch.io/mobile-game-be-patient-with-loading
 
 Hi my name is Phil Tate. I've taken a career break to learn the skills I need to be a software developer. These repos are of projects I've made.
 
-I have to portfolio websites:
+I have two portfolio websites:
 
 This is my creative portfolio website: https://lit-escarpment-48431.herokuapp.com/
 
